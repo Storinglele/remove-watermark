@@ -1,6 +1,7 @@
 # remove-watermark
 
 本项目用于去除 PDF 文件（如 UPDF 导出的带水印文件）第一页左上角的水印内容，包括文本水印、图片水印和超链接水印。
+主要使用pyMuPDF包，官网https://mupdf.com/pymupdf
 
 ## 使用方法
 
